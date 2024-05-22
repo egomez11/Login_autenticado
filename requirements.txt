@@ -12,3 +12,4 @@ toml
 Werkzeug
 WTForms
 gunicorn
+psycopg2
