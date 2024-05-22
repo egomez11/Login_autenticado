@@ -11,3 +11,4 @@ pycodestyle
 toml
 Werkzeug
 WTForms
+gunicorn
