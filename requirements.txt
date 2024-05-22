@@ -1,0 +1,13 @@
+﻿autopep8
+click
+colorama
+Flask
+Flask-Login
+Flask-WTF
+itsdangerous
+Jinja2
+MarkupSafe
+pycodestyle
+toml
+Werkzeug
+WTForms
